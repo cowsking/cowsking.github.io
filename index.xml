@@ -1,1 +1,22 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KeepIt on KeepIt</title><link>https://example.com/</link><description>Recent content in KeepIt on KeepIt</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://example.com/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KeepIt on KeepIt</title>
+    <link>https://example.com/</link>
+    <description>Recent content in KeepIt on KeepIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Feb 2020 14:05:51 +0000</lastBuildDate>
+    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 29 Feb 2020 14:05:51 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;today is a good day&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
