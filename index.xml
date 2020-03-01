@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hongyi Wu on Hongyi Wu</title>
-    <link>/</link>
+    <link>https://cowsking.github.io/</link>
     <description>Recent content in Hongyi Wu on Hongyi Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Feb 2020 14:05:51 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cowsking.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>/posts/</link>
+      <link>https://cowsking.github.io/posts/</link>
       <pubDate>Sat, 29 Feb 2020 23:45:21 +0000</pubDate>
       
-      <guid>/posts/</guid>
+      <guid>https://cowsking.github.io/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://cowsking.github.io/about/</link>
       <pubDate>Sat, 29 Feb 2020 14:05:51 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://cowsking.github.io/about/</guid>
       <description>&lt;h2 id=&#34;this-place-is-where-hongyi-writes-stuffs&#34;&gt;This place is where Hongyi writes stuffs.&lt;/h2&gt;
 &lt;h1 id=&#34;thank-you-for-visiting-&#34;&gt;Thank you for Visiting :)&lt;/h1&gt;
 </description>

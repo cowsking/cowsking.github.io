@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hongyi Wu</title>
-    <link>/tags/</link>
+    <link>https://cowsking.github.io/tags/</link>
     <description>Recent content in Tags on Hongyi Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cowsking.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
