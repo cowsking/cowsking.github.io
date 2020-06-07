@@ -2,6 +2,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://cowsking.github.io/posts/</loc>
+      
+      <lastmod>2020-06-07T21:34:38+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/2020/ifitregrets/</loc>
+      
+      <lastmod>2020-06-07T21:34:38+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://cowsking.github.io/categories/</loc>
       
       <lastmod>2020-03-25T09:39:44+08:00</lastmod>
@@ -17,20 +45,6 @@
   
     <url>
       <loc>https://cowsking.github.io/2020/escape/</loc>
-      
-      <lastmod>2020-03-25T09:39:44+08:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://cowsking.github.io/posts/</loc>
       
       <lastmod>2020-03-25T09:39:44+08:00</lastmod>
       
