@@ -2,23 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://cowsking.github.io/2020/2020summary/</loc>
-      
-      <lastmod>2020-12-16T22:19:16+08:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://cowsking.github.io/categories/books/</loc>
       
-      <lastmod>2020-12-16T22:19:16+08:00</lastmod>
+      <lastmod>2021-03-01T23:18:21+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -32,7 +18,7 @@
     <url>
       <loc>https://cowsking.github.io/categories/</loc>
       
-      <lastmod>2020-12-16T22:19:16+08:00</lastmod>
+      <lastmod>2021-03-01T23:18:21+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -45,6 +31,34 @@
   
     <url>
       <loc>https://cowsking.github.io/posts/</loc>
+      
+      <lastmod>2021-03-01T23:18:21+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/2021/read1587/</loc>
+      
+      <lastmod>2021-03-01T23:18:21+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/2020/2020summary/</loc>
       
       <lastmod>2020-12-16T22:19:16+08:00</lastmod>
       
