@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://cowsking.github.io/categories/books/</loc>
+      <loc>https://cowsking.github.io/categories/</loc>
       
-      <lastmod>2021-08-01T18:12:07+08:00</lastmod>
+      <lastmod>2021-08-04T16:44:07+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -16,9 +16,9 @@
     </url>
   
     <url>
-      <loc>https://cowsking.github.io/categories/</loc>
+      <loc>https://cowsking.github.io/categories/others/</loc>
       
-      <lastmod>2021-08-01T18:12:07+08:00</lastmod>
+      <lastmod>2021-08-04T16:44:07+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -31,6 +31,34 @@
   
     <url>
       <loc>https://cowsking.github.io/posts/</loc>
+      
+      <lastmod>2021-08-04T16:44:07+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/2021/musictypes/</loc>
+      
+      <lastmod>2021-08-04T16:44:07+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/categories/books/</loc>
       
       <lastmod>2021-08-01T18:12:07+08:00</lastmod>
       
