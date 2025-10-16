@@ -2,9 +2,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://cowsking.github.io/categories/</loc>
+      
+      <lastmod>2025-10-16T02:55:15-07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://cowsking.github.io/posts/</loc>
       
-      <lastmod>2025-02-23T14:29:42-05:00</lastmod>
+      <lastmod>2025-10-16T02:55:15-07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/categories/thoughts/</loc>
+      
+      <lastmod>2025-10-16T02:55:15-07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://cowsking.github.io/2025/siliconvalley/</loc>
+      
+      <lastmod>2025-10-16T02:55:15-07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -18,21 +60,7 @@
     <url>
       <loc>https://cowsking.github.io/2025/nyc/</loc>
       
-      <lastmod>2025-02-23T14:29:42-05:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://cowsking.github.io/categories/</loc>
-      
-      <lastmod>2021-08-04T16:44:07+08:00</lastmod>
+      <lastmod>2025-02-23T14:00:10+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -115,20 +143,6 @@
   
     <url>
       <loc>https://cowsking.github.io/2020/2020summary/</loc>
-      
-      <lastmod>2020-12-16T22:19:16+08:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://cowsking.github.io/categories/thoughts/</loc>
       
       <lastmod>2020-12-16T22:19:16+08:00</lastmod>
       
