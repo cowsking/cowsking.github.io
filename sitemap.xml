@@ -2,6 +2,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://cowsking.github.io/categories/</loc>
+      
+      <lastmod>2026-01-18T22:25:44-08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://cowsking.github.io/2026/howtolearn/</loc>
       
       <lastmod>2026-01-18T22:25:44-08:00</lastmod>
@@ -30,9 +44,9 @@
     </url>
   
     <url>
-      <loc>https://cowsking.github.io/categories/</loc>
+      <loc>https://cowsking.github.io/categories/study/</loc>
       
-      <lastmod>2025-10-16T02:55:15-07:00</lastmod>
+      <lastmod>2026-01-18T22:25:44-08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>

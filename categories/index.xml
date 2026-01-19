@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Hongyi Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 02:55:15 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 22:25:44 -0800</lastBuildDate>
     
 	<atom:link href="https://cowsking.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Study</title>
+      <link>https://cowsking.github.io/categories/study/</link>
+      <pubDate>Sun, 18 Jan 2026 22:25:44 -0800</pubDate>
+      
+      <guid>https://cowsking.github.io/categories/study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Thoughts</title>

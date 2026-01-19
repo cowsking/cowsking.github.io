@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on Hongyi Wu</title>
+    <link>https://cowsking.github.io/categories/study/</link>
+    <description>Recent content in Study on Hongyi Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jan 2026 22:25:44 -0800</lastBuildDate>
+    
+	<atom:link href="https://cowsking.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to learn better</title>
+      <link>https://cowsking.github.io/2026/howtolearn/</link>
+      <pubDate>Sun, 18 Jan 2026 22:25:44 -0800</pubDate>
+      
+      <guid>https://cowsking.github.io/2026/howtolearn/</guid>
+      <description>Recently, I have been studying how to learn better. From many resources, I&amp;rsquo;ve found that to achieve high learning efficiency, the first step is to ensure you get good sleep. I learned some basic knowledge about sleep, including different stages like NREM and REM. To achieve good sleep, my first practice is to keep my biological clock stable. I also try to get at least 8 hours of sleep every day.</description>
+    </item>
+    
+  </channel>
+</rss>
